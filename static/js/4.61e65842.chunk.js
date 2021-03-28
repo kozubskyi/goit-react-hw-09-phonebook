@@ -1,0 +1,2 @@
+(this["webpackJsonpgoit-react-hw-08-phonebook"]=this["webpackJsonpgoit-react-hw-08-phonebook"]||[]).push([[4],{87:function(e,t,o){},92:function(e,t,o){"use strict";o.r(t);var r=o(11),c=(o(87),o(17)),n=o(2);t.default=function(){var e=Object(r.c)((function(e){return Object(c.a)(e)}));return Object(n.jsx)(n.Fragment,{children:Object(n.jsxs)("h2",{className:"HomePage-title",children:["Wellcome! ",e?"You are already registered.":"Before start you should register or login."]})})}}}]);
+//# sourceMappingURL=4.61e65842.chunk.js.map
